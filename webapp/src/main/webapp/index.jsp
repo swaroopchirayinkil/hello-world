@@ -1,8 +1,3 @@
-<h1> Making changes in git repo and this will triger jenkins and the url will load new data automatically </h1>
-<h1> Stage_1(10thDec2020 20:33) </h1>
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
-Once i save this file lets see the changes happening in jenkins 
+<h1> Kunji koranga each and every actions can make big change in our life keep struggling </h1>
 
-<h1> Pallillatha Kunji chakkara panjaara korangiiiiiiiiii </h1>
+<h2> nte kunji Korangiiiiiiiiii </h2>
