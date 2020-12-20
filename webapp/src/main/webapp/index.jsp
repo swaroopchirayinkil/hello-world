@@ -1,4 +1,4 @@
-<h1> Stage_12(18thDec2020|12:49PM) </h1>
+<h1> Stage_12(20Dec2020) </h1>
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
 <h2> Deploying on a kubernetes using ansible </h2>
 
