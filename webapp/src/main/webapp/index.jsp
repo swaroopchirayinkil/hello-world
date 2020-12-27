@@ -5,7 +5,7 @@
 <h2> Testing CICD workflow </h2>
 
 
-Test 1
+Test 2
 
 
 Why I am having this much struggle in my journey :(
